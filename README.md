@@ -38,3 +38,7 @@ python -m rag_chatbot --host localhost
 ```
 
 ### 3. Go to: `http://0.0.0.0:7860/`
+
+## 2. Kaggle
+
+#### Clone or copy the file in notebooks folder. Follow the step to run.
