@@ -7,7 +7,7 @@
 ### 1. Clone project
 
 ```bash
-git clone https://github.com/datvodinh/rag-chatbot.git
+git clone https://github.com/Dinhhoanghm/medical-chatbot.git
 cd rag-chatbot
 ```
 
